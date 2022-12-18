@@ -1,0 +1,16 @@
+# 图像处理
+Python-Image-feature-extraction-master/Image
+
+
+# TDA
+skin_TDA-master/cyx/images
+skin_TDA-master/cyx/output_txt
+skin_TDA-master/cyx/output0_1_txt
+skin_TDA-master/*/*.txt
+
+
+*.jpg
+*.png
+.R*
+
+My_image
