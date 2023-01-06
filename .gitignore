@@ -3,10 +3,8 @@ Python-Image-feature-extraction-master/Image
 
 
 # TDA
-skin_TDA-master/cyx/images
-skin_TDA-master/cyx/output_txt
-skin_TDA-master/cyx/output0_1_txt
-skin_TDA-master/*/*.txt
+skin_TDA-master/datas
+skin_TDA-master/Image
 
 
 *.jpg

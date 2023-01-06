@@ -41,7 +41,7 @@ def preprocess(image_path, coordinate_data_path, min_wavelet_level=3, max_wavele
 	np.savetxt(coordinate_data_path, white_pixels,fmt="%.0f",delimiter=",")
 
 # 得到output.txt
-filePath = "My_image/resize/3_50_90"
+filePath = "My_image/resize/3_50_0"
 # 获取filePath的最后一个文件夹名字(3_50_90)
 filepath1 = filePath.split("/")[-1]
 # 查看output_txt文件夹是否存在，不存在则创建
