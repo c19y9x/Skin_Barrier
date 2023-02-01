@@ -11,6 +11,12 @@ skin_TDA-master/Image
 *.jpg
 *.png
 .R*
+*.xls
 
 My_image
 *.pdf
+.idea/
+.vscode/
+__pycache__
+.ipynb_checkpoints
+tempCodeRunnerFile.py

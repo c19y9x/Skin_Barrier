@@ -17,7 +17,7 @@ ap.add_argument("-i", "--image", required = True, help = "Path to the image")
 args = vars(ap.parse_args())
 """
 # load the image and show it args["image"]
-image = cv2.imread("1209\\3_0_20_90_3.jpg")
+image = cv2.imread("My_image/group_tape_stripping_numbers/3_20_90/3_0_20_90.jpg")
 cv2.imshow("image", image)
 
 # convert the image to grayscale and create a histogram

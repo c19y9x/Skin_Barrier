@@ -191,7 +191,7 @@ class LBP:
         cv2.waitKey(0)
 
 if __name__ == '__main__':
-    image = r"1209\3_0_20_90_3.jpg";
+    image = r"My_image/group_tape_stripping_numbers/3_20_90/3_0_20_90.jpg";
     lbp=LBP()
     image_array=lbp.describe(image)
     
