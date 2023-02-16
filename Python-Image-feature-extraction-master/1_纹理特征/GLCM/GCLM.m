@@ -64,7 +64,7 @@ function [GLCMFeatures] = showImage(path)
 end
 
 
-% 抽象成函数
+% 计算灰度共生矩阵以及计算相关特征
 function [contrast, correlation, energy, homogeneity] = getGLCMFeatures(path)   
     
     I = imread(path);
